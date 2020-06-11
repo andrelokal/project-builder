@@ -44,7 +44,7 @@ Este projeto é livre para ser usado e alterado.
     PHP instalado MySQL e Nginx ou Apache
     Módulo PDO para o MySql Habilitado  
     
-## Authors
+## Autor
     * André Martos - andrelokal@gmail.com
 
 
